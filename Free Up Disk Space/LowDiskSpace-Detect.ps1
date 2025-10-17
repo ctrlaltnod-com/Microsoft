@@ -1,7 +1,6 @@
 ###########################################################################
 # Script de détection - Espace disque faible avant mise à niveau Windows 11
 ###########################################################################
-# Auteur      : Emanuel DE ALMEIDA
 # Site        : www.ctrlaltnod.com
 # Description : Ce script détecte si le lecteur C: dispose d'au moins 30 GB 
 #               d'espace libre. Si l'espace est insuffisant, il calcule la 
