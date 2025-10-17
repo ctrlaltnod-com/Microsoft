@@ -1,7 +1,6 @@
 ###########################################################################
 # Script de remédiation - Alignement de la barre des tâches Windows 11
 ###########################################################################
-# Auteur      : Emanuel DE ALMEIDA
 # Site        : www.ctrlaltnod.com
 # Description : Ce script configure automatiquement l'alignement de la barre 
 #               des tâches Windows 11 à GAUCHE en modifiant la valeur de 

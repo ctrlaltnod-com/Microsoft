@@ -1,7 +1,6 @@
 ###########################################################################
 # Script de détection - Alignement de la barre des tâches Windows 11
 ###########################################################################
-# Auteur      : Emanuel DE ALMEIDA
 # Site        : www.ctrlaltnod.com
 # Description : Ce script détecte si la barre des tâches Windows 11 est 
 #               alignée à gauche (valeur 0) ou au centre (valeur 1).
