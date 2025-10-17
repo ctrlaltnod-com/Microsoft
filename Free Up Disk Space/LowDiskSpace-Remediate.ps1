@@ -1,7 +1,6 @@
 ###########################################################################
 # Script de remédiation - Libération d'espace disque avant mise à niveau Windows 11
 ###########################################################################
-# Auteur      : Emanuel DE ALMEIDA
 # Site        : www.ctrlaltnod.com
 # Description : Ce script affiche une notification Windows Toast à l'utilisateur
 #               expliquant que l'espace disque est insuffisant pour la mise à 
